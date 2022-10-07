@@ -9,12 +9,7 @@
     <remote-repository>
       <option name="id" value="local-repository" />
       <option name="name" value="local-repository" />
-      <option name="url" value="file://$PROJECT_DIR$/server/lib" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="local-repository" />
-      <option name="name" value="local-repository" />
-      <option name="url" value="file://$PROJECT_DIR$/client/" />
+      <option name="url" value="file://$PROJECT_DIR$/domain/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
@@ -24,27 +19,7 @@
     <remote-repository>
       <option name="id" value="local-repository" />
       <option name="name" value="local-repository" />
-      <option name="url" value="file://$PROJECT_DIR$/client/lib" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="local-repository" />
-      <option name="name" value="local-repository" />
-      <option name="url" value="file://$PROJECT_DIR$/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="local-repository" />
-      <option name="name" value="local-repository" />
-      <option name="url" value="file://$PROJECT_DIR$/domain/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="local-repository" />
-      <option name="name" value="local-repository" />
       <option name="url" value="file://$PROJECT_DIR$/application/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="local-repository" />
-      <option name="name" value="local-repository" />
-      <option name="url" value="file://$PROJECT_DIR$/server/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="local-repository" />
@@ -57,6 +32,31 @@
       <option name="url" value="file://$PROJECT_DIR$/lib" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="local-repository" />
+      <option name="name" value="local-repository" />
+      <option name="url" value="file://$PROJECT_DIR$/client/lib" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="local-repository" />
+      <option name="name" value="local-repository" />
+      <option name="url" value="file://$PROJECT_DIR$/application/lib" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="local-repository" />
+      <option name="name" value="local-repository" />
+      <option name="url" value="file://$PROJECT_DIR$/server/lib" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="local-repository" />
+      <option name="name" value="local-repository" />
+      <option name="url" value="file://$PROJECT_DIR$/server/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="local-repository" />
+      <option name="name" value="local-repository" />
+      <option name="url" value="file://$PROJECT_DIR$/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
@@ -64,7 +64,7 @@
     <remote-repository>
       <option name="id" value="local-repository" />
       <option name="name" value="local-repository" />
-      <option name="url" value="file://$PROJECT_DIR$/application/lib" />
+      <option name="url" value="file://$PROJECT_DIR$/client/" />
     </remote-repository>
   </component>
 </project>
